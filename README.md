@@ -27,6 +27,9 @@ You will see the output like
 # Live Demo
 [Ionic 4 Timer app](https://sbsharma.com/ionic-4-timer-app/)
 
+# Support us
+To support my free tutorials and source code you can consider your next hosting purchase with my affiliate link. It will not cost you anything extra but it will give me a small amount of commission. Here is my Hotinger affilate link [Hostinger](https://www.hostg.xyz/SH6KQ).
+
 # Contributor
 [Satpal Bhardwaj](https://sbsharma.com/ionic/)
 
